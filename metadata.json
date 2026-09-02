@@ -1,0 +1,6 @@
+{
+  "name": "Bài Tập Tiếng Anh Lớp 6",
+  "description": "Ứng dụng luyện tập trắc nghiệm tiếng Anh lớp 6 chương trình THCS Việt Nam trình độ A1-A2",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
